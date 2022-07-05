@@ -1,0 +1,73 @@
+span {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin: 0%;
+}
+
+.half-width {
+    width: 50%;
+    padding: 0% 5%;
+    margin: 0%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-right: 0px;
+}
+
+
+body {
+    padding-top: 0%;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+    padding-top: 0%;
+    text-align: justify;
+}
+
+.order-button {
+    background-color: orange;
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+    background-image: linear-gradient(orange tomato);
+    border-radius: 5px;
+
+
+}
+
+.top-bannar {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.mid-bannar {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.trd-raw {
+    width: 50%;
+}
+
+.bulbuli {
+    text-align: center;
+}
+
+.button{
+    margin-top: 5%;
+}
